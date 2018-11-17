@@ -1,0 +1,249 @@
+@charset utf-8;
+/* Styles for Walden; Or, Life in the Woods */
+h1, h2, h3, h4, h5, h6 {
+  text-align: center;
+}
+/* These styles approximate the Manifold defaults. They are stripped when you ingest a file but are here to help preview documents during the drafting phase. */
+body {
+  font-family: freight-text-pro,Georgia,serif;
+  font-weight: 400;
+  font-size: 1.2rem;
+  line-height: 1.8;
+  letter-spacing: .01em;
+  margin: 0 auto;
+  text-align: justify;
+  padding: 0 3em 0 3em; 
+  max-width: 650px;
+}
+
+p {
+  margin: 0 auto 0.2em;
+  text-align: justify;
+  text-indent: 0;
+}
+
+/*These are custom styles */
+p {
+padding-bottom: 0;
+}
+
+p+p {
+  text-indent: 2em;
+}
+
+img {
+  display: block;
+  margin: 1em auto 2em;
+  max-width: 100%;
+}
+p.caption	{
+  font-size: .75em;
+  font-style: italic;
+  text-align: center;
+  width: 80%;
+  margin: -2em auto 2em;
+}
+
+.title {
+  margin-top: 1em;
+  text-align: center;
+  font-size: 1.75rem;
+  text-indent: 0
+  font-variant: small-caps;
+}
+
+.subtitle {
+  margin: .5em auto .5em;
+  text-align: center;
+  font-size: .75rem;
+}
+
+.author {
+  text-align: center;
+  font-size: 1.75rem;
+  margin: 0.5em auto 0 0;
+  text-indent: 0;
+}
+
+.publisher {
+  text-align: center;
+  font-size: 1rem;
+  margin-top: 2em;
+  text-indent: 0em;
+}
+
+.pub1 {
+  text-align: center;
+  font-size: .8rem;
+  margin: 0 auto 0;
+  text-indent: 0;
+}
+
+.ct {
+  text-align: center;
+  text-indent: 0;
+  margin-top: 3em;
+}
+
+.pf {
+  margin-top: 3em;
+  text-indent: 0;
+}
+
+.copyright {
+  margin-top: 3em;
+  font-size: 80%;
+  text-indent: 0;
+  text-align: left;
+}
+
+.copyright p {
+  text-indent: 0;
+  text-align: left;
+  margin: 0em auto 1.25em;
+}
+
+div.copyright img {
+  float: left;
+}
+
+.cite {
+  text-align: right;
+  font-variant: small-caps;
+}
+
+.chapter {
+  margin: 0 auto 4em;
+}
+
+.sec {
+  margin: 0 auto 4em;
+}
+
+.l2 {
+  text-indent: 4em;
+  }
+  
+.quote {
+    font-size: 85%;
+    margin:  1em auto;
+    width: 80%
+  }
+  
+.stanza {
+    width: 80%;
+    margin: 1em auto;
+    font-size: 85%;
+    line-height: 1.5em;
+  }
+.stanza p {
+    margin-left: 2em;
+    text-align: left;
+    text-indent: -2em;
+  }
+  
+.stanza h3 {
+    text-align: center;
+    font-style: normal;
+    font-weight: 400;
+    margin-right: 2em;
+  }
+  
+.scap {
+  font-variant: small-caps;
+}
+
+p.centered {
+  text-align: center;
+}
+
+p.indent {
+  text-indent: 2em;
+}
+  
+/*These are custom styles for this piece*/
+table {
+    width: 100%;
+    margin: 2em auto;
+    border-collapse: collapse;
+}
+
+td {
+vertical-align: bottom;
+}
+
+td#sum {
+  border-top: .25em solid;
+  text-align: right;
+}
+
+td#right {
+  text-align: right;
+}
+
+td#group {
+  font-size: 80%;
+  text-align: left;
+  font-style: italic;
+  vertical-align: center;
+  border-left: .2em solid;
+  padding-left: 1em;
+}
+
+td:first-child {
+text-align: left;
+overflow: hidden;
+position: relative;
+margin: 0 auto;
+padding: 0 auto;
+}
+
+td:first-child::after {
+  content: '';
+  position: absolute;
+  bottom: 0;
+  width: 80%;
+  height: 0%;
+  margin-left: .2em;
+  border-bottom: .15em dotted;
+}
+
+td:last-child {
+  text-align: left;
+  margin-left: 1em;
+  vertical-align: bottom;
+}
+  hr {
+    width: 50%;
+  }
+  .it {
+    font-style: italic;
+  }
+  
+.footnotes {
+  border-top: 1pt solid gray;
+  font-family: sans-serif;
+  margin: 1em;
+  padding 1em 0;
+}
+
+.footnotes p {
+ margin-bottom: 1em;
+ font-size: 1rem;
+ text-indent: 0em;
+ } 
+ 
+sup {
+   vertical-align: super;
+   font-size: smaller;
+ }
+ 
+ .bld {
+   font-weight: bold;
+ }
+ 
+ p.no-indent {
+   margin-left: 2em;
+   text-align: left;
+   text-indent: -2em;
+ }

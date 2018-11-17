@@ -1,0 +1,73 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+  <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+    <dc:title>Walden; Or, Life in the Woods</dc:title>
+    <dc:creator opf:role="aut" opf:file-as="Thoreau, Henry David">Henry David Thoreau</dc:creator>
+    <dc:identifier opf:scheme="uuid" id="uuid_id">dae2b8ff-e465-45d6-af4a-43a8f3710ad4</dc:identifier>
+    <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (3.32.0) [https://calibre-ebook.com]</dc:contributor>
+    <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+    <dc:language>en</dc:language>
+    <dc:identifier opf:scheme="calibre">6700e955-ce82-4978-85bb-06e959f334bc</dc:identifier>
+    <meta content="{&quot;Henry David Thoreau&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+    <meta name="calibre:title_sort" content="Walden; Or, Life in the Woods"/>
+    <meta name="cover" content="cover"/>
+  </metadata>
+  <manifest>
+    <item href="start.xhtml" id="start" media-type="application/xhtml+xml"/>
+    <item href="title.html" id="id1" media-type="application/xhtml+xml"/>
+    <item href="copyright.html" id="id3" media-type="application/xhtml+xml"/>
+    <item href="note.html" id="id7" media-type="application/xhtml+xml"/>
+    <item href="economy.html" id="id6" media-type="application/xhtml+xml"/>
+    <item href="where-i-lived.html" id="id8" media-type="application/xhtml+xml"/>
+    <item href="reading.html" id="id9" media-type="application/xhtml+xml"/>
+    <item href="sounds.html" id="id10" media-type="application/xhtml+xml"/>
+    <item href="solitude.html" id="id11" media-type="application/xhtml+xml"/>
+    <item href="visitors.html" id="id12" media-type="application/xhtml+xml"/>
+    <item href="beanfield.html" id="id13" media-type="application/xhtml+xml"/>
+    <item href="village.html" id="id14" media-type="application/xhtml+xml"/>
+    <item href="ponds.html" id="id15" media-type="application/xhtml+xml"/>
+    <item href="baker-farm.html" id="id16" media-type="application/xhtml+xml"/>
+    <item href="higher-laws.html" id="id17" media-type="application/xhtml+xml"/>
+    <item href="brute-neighbors.html" id="id18" media-type="application/xhtml+xml"/>
+    <item href="house-warming.html" id="id19" media-type="application/xhtml+xml"/>
+    <item href="former-inhabitants.html" id="id20" media-type="application/xhtml+xml"/>
+    <item href="winter-animals.html" id="id21" media-type="application/xhtml+xml"/>
+    <item href="the-pond-in-winter.html" id="id22" media-type="application/xhtml+xml"/>
+    <item href="spring.html" id="id24" media-type="application/xhtml+xml"/>
+    <item href="conclusion.html" id="id25" media-type="application/xhtml+xml"/>
+    <item href="advertisements.html" id="id26" media-type="application/xhtml+xml"/>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+    <item href="styles.css" id="id" media-type="text/css"/>
+    <item href="cover.jpg" id="cover" media-type="image/jpeg"/>
+    <item href="CUNY-imprint.jpg" id="id4" media-type="image/jpeg"/>
+    <item href="walden-cover.jpg" id="id5" media-type="image/jpeg"/>
+    <item href="walden-map-small.jpg" id="id23" media-type="image/jpeg"/>
+    <item href="walden-title.jpg" id="id2" media-type="image/jpeg"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="start"/>
+    <itemref idref="id1"/>
+    <itemref idref="id3"/>
+    <itemref idref="id7"/>
+    <itemref idref="id6"/>
+    <itemref idref="id8"/>
+    <itemref idref="id9"/>
+    <itemref idref="id10"/>
+    <itemref idref="id11"/>
+    <itemref idref="id12"/>
+    <itemref idref="id13"/>
+    <itemref idref="id14"/>
+    <itemref idref="id15"/>
+    <itemref idref="id16"/>
+    <itemref idref="id17"/>
+    <itemref idref="id18"/>
+    <itemref idref="id19"/>
+    <itemref idref="id20"/>
+    <itemref idref="id21"/>
+    <itemref idref="id22"/>
+    <itemref idref="id24"/>
+    <itemref idref="id25"/>
+    <itemref idref="id26"/>
+  </spine>
+  <guide/>
+</package>

@@ -1,0 +1,153 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="en">
+  <head>
+    <meta content="dae2b8ff-e465-45d6-af4a-43a8f3710ad4" name="dtb:uid"/>
+    <meta content="2" name="dtb:depth"/>
+    <meta content="calibre (3.32.0)" name="dtb:generator"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>Walden; Or, Life in the Woods</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="num_1" playOrder="1">
+      <navLabel>
+        <text>Cover</text>
+      </navLabel>
+      <content src="start.xhtml"/>
+    </navPoint>
+    <navPoint id="num_2" playOrder="2">
+      <navLabel>
+        <text>Title Page</text>
+      </navLabel>
+      <content src="title.html"/>
+    </navPoint>
+    <navPoint id="num_3" playOrder="3">
+      <navLabel>
+        <text>Copyright</text>
+      </navLabel>
+      <content src="copyright.html#toc_1"/>
+    </navPoint>
+    <navPoint id="num_4" playOrder="4">
+      <navLabel>
+        <text>Note on the Text</text>
+      </navLabel>
+      <content src="note.html"/>
+    </navPoint>
+    <navPoint id="num_5" playOrder="5">
+      <navLabel>
+        <text>Economy</text>
+      </navLabel>
+      <content src="economy.html"/>
+    </navPoint>
+    <navPoint id="num_6" playOrder="6">
+      <navLabel>
+        <text>Where I Lived, and What I Lived For</text>
+      </navLabel>
+      <content src="where-i-lived.html#toc_1"/>
+    </navPoint>
+    <navPoint id="num_7" playOrder="7">
+      <navLabel>
+        <text>Reading</text>
+      </navLabel>
+      <content src="reading.html"/>
+    </navPoint>
+    <navPoint id="num_8" playOrder="8">
+      <navLabel>
+        <text>Sounds</text>
+      </navLabel>
+      <content src="sounds.html"/>
+    </navPoint>
+    <navPoint id="num_9" playOrder="9">
+      <navLabel>
+        <text>Solitude</text>
+      </navLabel>
+      <content src="solitude.html"/>
+    </navPoint>
+    <navPoint id="num_10" playOrder="10">
+      <navLabel>
+        <text>Visitors</text>
+      </navLabel>
+      <content src="visitors.html"/>
+    </navPoint>
+    <navPoint id="num_11" playOrder="11">
+      <navLabel>
+        <text>The Bean-Field.</text>
+      </navLabel>
+      <content src="beanfield.html"/>
+    </navPoint>
+    <navPoint id="num_12" playOrder="12">
+      <navLabel>
+        <text>The Village.</text>
+      </navLabel>
+      <content src="village.html"/>
+    </navPoint>
+    <navPoint id="num_13" playOrder="13">
+      <navLabel>
+        <text>The Ponds.</text>
+      </navLabel>
+      <content src="ponds.html"/>
+    </navPoint>
+    <navPoint id="num_14" playOrder="14">
+      <navLabel>
+        <text>Baker Farm.</text>
+      </navLabel>
+      <content src="baker-farm.html"/>
+    </navPoint>
+    <navPoint id="num_15" playOrder="15">
+      <navLabel>
+        <text>Higher Laws.</text>
+      </navLabel>
+      <content src="higher-laws.html"/>
+    </navPoint>
+    <navPoint id="num_16" playOrder="16">
+      <navLabel>
+        <text>Brute Neighbors.</text>
+      </navLabel>
+      <content src="brute-neighbors.html"/>
+    </navPoint>
+    <navPoint id="num_17" playOrder="17">
+      <navLabel>
+        <text>House-Warming.</text>
+      </navLabel>
+      <content src="house-warming.html"/>
+    </navPoint>
+    <navPoint id="num_18" playOrder="18">
+      <navLabel>
+        <text>Former Inhabitants; and Winter Visitors.</text>
+      </navLabel>
+      <content src="former-inhabitants.html"/>
+    </navPoint>
+    <navPoint id="num_19" playOrder="19">
+      <navLabel>
+        <text>Winter Animals.</text>
+      </navLabel>
+      <content src="winter-animals.html"/>
+    </navPoint>
+    <navPoint id="num_20" playOrder="20">
+      <navLabel>
+        <text>The Pond in Winter.</text>
+      </navLabel>
+      <content src="the-pond-in-winter.html"/>
+    </navPoint>
+    <navPoint id="num_21" playOrder="21">
+      <navLabel>
+        <text>Spring.</text>
+      </navLabel>
+      <content src="spring.html"/>
+    </navPoint>
+    <navPoint id="num_22" playOrder="22">
+      <navLabel>
+        <text>Conclusion.</text>
+      </navLabel>
+      <content src="conclusion.html"/>
+    </navPoint>
+    <navPoint id="num_23" playOrder="23">
+      <navLabel>
+        <text>Original Advertisements</text>
+      </navLabel>
+      <content src="advertisements.html#toc_2"/>
+    </navPoint>
+  </navMap>
+</ncx>
