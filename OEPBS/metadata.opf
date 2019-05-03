@@ -1,4 +1,4 @@
-<?xml version="1.0"  encoding="UTF-8"?>
+<?xml version='1.0' encoding='utf-8'?>
 <package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
   <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
     <dc:title>Walden; Or, Life in the Woods</dc:title>
@@ -9,7 +9,7 @@
     <dc:language>en</dc:language>
     <dc:identifier opf:scheme="calibre">6700e955-ce82-4978-85bb-06e959f334bc</dc:identifier>
     <meta content="{&quot;Henry David Thoreau&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
-    <meta name="calibre:title_sort" content="Walden; Or, Life in the Woods"/>
+    <meta name="calibre:title_sort" content="Walden, Or Life in the Woods"/>
     <meta name="cover" content="cover"/>
   </metadata>
   <manifest>
@@ -18,6 +18,12 @@
     <item href="copyright.html" id="id3" media-type="application/xhtml+xml"/>
     <item href="note.html" id="id7" media-type="application/xhtml+xml"/>
     <item href="economy.html" id="id6" media-type="application/xhtml+xml"/>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+    <item href="styles.css" id="id" media-type="text/css"/>
+    <item href="cover.jpg" id="cover" media-type="image/jpeg"/>
+    <item href="CUNY-imprint.jpg" id="id4" media-type="image/jpeg"/>
+    <item href="walden-cover.jpg" id="id5" media-type="image/jpeg"/>
+    <item href="walden-title.jpg" id="id2" media-type="image/jpeg"/>
     <item href="where-i-lived.html" id="id8" media-type="application/xhtml+xml"/>
     <item href="reading.html" id="id9" media-type="application/xhtml+xml"/>
     <item href="sounds.html" id="id10" media-type="application/xhtml+xml"/>
@@ -33,16 +39,10 @@
     <item href="former-inhabitants.html" id="id20" media-type="application/xhtml+xml"/>
     <item href="winter-animals.html" id="id21" media-type="application/xhtml+xml"/>
     <item href="the-pond-in-winter.html" id="id22" media-type="application/xhtml+xml"/>
+    <item href="walden-map-small.jpg" id="id23" media-type="image/jpeg"/>
     <item href="spring.html" id="id24" media-type="application/xhtml+xml"/>
     <item href="conclusion.html" id="id25" media-type="application/xhtml+xml"/>
     <item href="advertisements.html" id="id26" media-type="application/xhtml+xml"/>
-    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
-    <item href="styles.css" id="id" media-type="text/css"/>
-    <item href="cover.jpg" id="cover" media-type="image/jpeg"/>
-    <item href="CUNY-imprint.jpg" id="id4" media-type="image/jpeg"/>
-    <item href="walden-cover.jpg" id="id5" media-type="image/jpeg"/>
-    <item href="walden-map-small.jpg" id="id23" media-type="image/jpeg"/>
-    <item href="walden-title.jpg" id="id2" media-type="image/jpeg"/>
   </manifest>
   <spine toc="ncx">
     <itemref idref="start"/>
